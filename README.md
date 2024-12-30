@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 🍉  
 
-Here, you’ll find a collection of the projects I’m working on, ranging across:  
+Here, you’ll find a collection of the projects that I’m working on, ranging across:  
 
 **Data Science and Data Analysis** ,**Microscopy Data Analysis** ,**Machine Learning and Deep Learning Models**, and of course, combinations of all the above!
 
