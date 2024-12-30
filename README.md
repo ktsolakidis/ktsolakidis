@@ -1,4 +1,4 @@
-# Welcome to My GitHub! 🍉  
+## Welcome to My GitHub! 🍉  
 
 Here, you’ll find a collection of the projects that I’m working on, ranging across:  
 
@@ -6,6 +6,8 @@ Here, you’ll find a collection of the projects that I’m working on, ranging 
 
 
 Feel free to contact me about feedback, questions, and new project ideas. Let's stay connected!
+
+**Konstantinos Tsolakidis**
 
 **Data Scientist | Biomedical Software Engineer | Machine Learning Engineer**  
 *Copenhagen, Denmark*  
